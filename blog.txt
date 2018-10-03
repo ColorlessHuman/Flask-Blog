@@ -1,0 +1,7 @@
+Earlier this year, Google  announced its revamped Google Maps, which puts a stronger emphasis on discovery. Some of the features the company announced back then have already launched, including many of the promised discovery and exploration tools, but the one feature that was still missing was group planning. But you won’t have to wait much longer to collaboratively plan your outings with friends in Google Maps because today, these collaboration tools are finally launching.
+
+The basic problem Google is trying to solve here probably feels familiar to everybody who has ever tried to get a group of more than two people to decide on where to go for dinner — or any other outing, really. It usually takes way too many text messages to get everybody to agree.
+
+Now, however, you’ll be able to create a list of places in Google Maps and then share those with your friends. And then, like in any good democracy, your friends can vote on where to go. Group members can also veto places by removing them from the shortlist and add other ones that they’d prefer (nobody said democracy was easy, right?).
+
+Once you have created a list, you can share it just like any other link and your friends will be taken right to Google Maps on mobile or the web to join in the planning fun.
